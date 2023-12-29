@@ -20,4 +20,4 @@ All rights reserved
 My projects are free and cant be sold
 
 My projects can't be published on github. Im the only one who can
-.
+
