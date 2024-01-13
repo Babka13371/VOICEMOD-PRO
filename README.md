@@ -9,7 +9,7 @@
 1. #### Unpack the archive
 1. #### Open "Installer.exe"
 1. #### Follow the instructions (We have prepared some tutorials to help you configure bhop with your favorite programs)
-1. ####  Enjoy!
+1. ####  Enjoy!!
 ![logo 1](https://github.com/Babka13371/VOICEMOD-PRO/blob/main/maxresdefault.jpg)
 >© Copyright
 
